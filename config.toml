@@ -1,0 +1,5 @@
+baseURL = "https://harsha4261.github.io/aihub-vvit.github.io/"
+languageCode = "en-us"
+title = "My Hugo Blog"
+theme = "ananke"
+publishDir = "docs"
